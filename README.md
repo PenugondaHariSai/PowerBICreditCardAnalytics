@@ -1,6 +1,5 @@
 # Credit Card Analytics - Power BI
 
-## Introduction 
 
 ## Introduction
 
