@@ -14,7 +14,7 @@ A leading credit card company seeks to better understand its operations and iden
 - Assess the impact of demographic factors on customer spending behavior.
 
 ## Credit Card Customer Report 
-![PowerBI_page-0002](https://github.com/PenugondaHariSai/PowerBICreditCardAnalytics/assets/74250403/03c95ead-c021-450f-b09a-8ce663e21c3e)
+![CreditCardReport_page-0002](https://github.com/PenugondaHariSai/PowerBICreditCardAnalytics/assets/74250403/60d522a6-7cc6-41dc-8c32-ab7c312b7a9f)
 
 ## Credit Card Transactions Report 
 ![PowerBI_page-0001](https://github.com/PenugondaHariSai/PowerBICreditCardAnalytics/assets/74250403/ce39044d-0cc8-49a8-9fd3-111d91f16e61)
